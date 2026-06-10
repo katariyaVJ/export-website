@@ -1,0 +1,28 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Professional Export Branding SVG -->
+  
+  <!-- Global Sphere (Gold) -->
+  <circle cx="340" cy="200" r="140" stroke="#c5a059" stroke-width="2" fill="none" opacity="0.6"/>
+  <path d="M200 200C200 277.32 262.68 340 340 340C417.32 340 480 277.32 480 200C480 122.68 417.32 60 340 60C262.68 60 200 122.68 200 200Z" stroke="#c5a059" stroke-width="1" fill="none" opacity="0.3"/>
+  <path d="M340 60V340M200 200H480" stroke="#c5a059" stroke-width="1" opacity="0.2"/>
+  <ellipse cx="340" cy="200" rx="80" ry="140" stroke="#c5a059" stroke-width="1" fill="none" opacity="0.3"/>
+  
+  <!-- The Great 'K' (Dark Green) -->
+  <path d="M120 100V420M120 260L320 100M120 260L320 420" stroke="#1a3d2f" stroke-width="60" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M120 100V420" stroke="#1a3d2f" stroke-width="50" stroke-linecap="round"/>
+  
+  <!-- Cargo Ship (Dark Green) -->
+  <path d="M180 380H420L380 440H220L180 380Z" fill="#1a3d2f"/>
+  <path d="M180 380L160 410C160 410 250 430 440 410L420 380" fill="#1a3d2f"/>
+  
+  <!-- Containers (Gold) -->
+  <rect x="220" y="340" width="40" height="40" fill="#c5a059" rx="2"/>
+  <rect x="270" y="340" width="40" height="40" fill="#c5a059" rx="2"/>
+  <rect x="320" y="340" width="40" height="40" fill="#c5a059" rx="2"/>
+  <rect x="245" y="300" width="40" height="40" fill="#c5a059" rx="2"/>
+  <rect x="295" y="300" width="40" height="40" fill="#c5a059" rx="2"/>
+  
+  <!-- Waves (Gold & Green) -->
+  <path d="M100 460C180 440 320 480 460 440" stroke="#c5a059" stroke-width="8" stroke-linecap="round" fill="none"/>
+  <path d="M80 480C160 460 300 500 440 460" stroke="#1a3d2f" stroke-width="12" stroke-linecap="round" fill="none" opacity="0.5"/>
+</svg>
